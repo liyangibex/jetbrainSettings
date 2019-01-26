@@ -4,7 +4,7 @@
     <property name="created">2019-01-26T23:51:48</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-01-26T23:51:53</property>
+    <property name="modified">2019-01-27T00:10:26</property>
     <property name="originalScheme">Brackets</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -184,13 +184,13 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="b05a65" />
+        <option name="FOREGROUND" value="e8b422" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="b05a65" />
+        <option name="FOREGROUND" value="e8b422" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -211,7 +211,7 @@
     </option>
     <option name="DEFAULT_COMMA">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="303133" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -241,7 +241,7 @@
     </option>
     <option name="DEFAULT_DOT">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="303133" />
       </value>
     </option>
     <option name="DEFAULT_ENTITY">
@@ -259,7 +259,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="b05a65" />
+        <option name="FOREGROUND" value="8757c4" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -283,13 +283,13 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="bc5a65" />
+        <option name="FOREGROUND" value="8757c4" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="9b5656" />
+        <option name="FOREGROUND" value="8757c4" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -345,13 +345,13 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="885d3b" />
+        <option name="FOREGROUND" value="e06c75" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="b05a65" />
+        <option name="FOREGROUND" value="e8b422" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -373,7 +373,7 @@
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="303133" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
@@ -474,20 +474,15 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION">
-      <value />
-    </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="660e7a" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JS.PARAMETER">
-      <value>
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="426dc0" />
