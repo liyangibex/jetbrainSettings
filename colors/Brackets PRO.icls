@@ -4,12 +4,12 @@
     <property name="created">2019-01-26T23:51:48</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-01-27T00:15:05</property>
+    <property name="modified">2019-01-27T00:29:00</property>
     <property name="originalScheme">Brackets</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
+  <option name="LINE_SPACING" value="1.3" />
   <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="CARET_ROW_COLOR" value="e0e0ff" />
     <option name="CONSOLE_BACKGROUND_KEY" value="f8f8f8" />
@@ -19,8 +19,8 @@
     <option name="METHOD_SEPARATORS_COLOR" value="e0e0ff" />
     <option name="SELECTED_INDENT_GUIDE" value="535358" />
     <option name="SELECTED_TEARLINE_COLOR" value="eaeaea" />
-    <option name="SELECTION_BACKGROUND" value="eaeaea" />
-    <option name="SELECTION_FOREGROUND" value="535358" />
+    <option name="SELECTION_BACKGROUND" value="d1ebf8" />
+    <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="e0e0ff" />
   </colors>
   <attributes>
@@ -178,7 +178,8 @@
     </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
-        <option name="FOREGROUND" value="353535" />
+        <option name="FOREGROUND" value="606266" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
@@ -210,7 +211,7 @@
     </option>
     <option name="DEFAULT_COMMA">
       <value>
-        <option name="FOREGROUND" value="303133" />
+        <option name="FOREGROUND" value="606266" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -339,7 +340,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="353535" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
