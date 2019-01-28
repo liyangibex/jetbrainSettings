@@ -4,12 +4,12 @@
     <property name="created">2019-01-26T23:51:48</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-01-28T10:54:37</property>
+    <property name="modified">2019-01-28T11:40:03</property>
     <property name="originalScheme">Brackets</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="17" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="LINE_SPACING" value="1.4" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <colors>
     <option name="CARET_ROW_COLOR" value="e0e0ff" />
     <option name="CONSOLE_BACKGROUND_KEY" value="f8f8f8" />
@@ -301,7 +301,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="386acd" />
+        <option name="FOREGROUND" value="2979ff" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -398,7 +398,7 @@
     </option>
     <option name="DEFAULT_TAG">
       <value>
-        <option name="FOREGROUND" value="426dc0" />
+        <option name="FOREGROUND" value="2979ff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
