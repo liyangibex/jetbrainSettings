@@ -1,0 +1,14 @@
+<templateSet group="JavaScript">
+  <template name="it" value="it('should $TEXT$', function () {&#10;    $END$&#10;});" description="Inserts it() expression" toReformat="false" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="desc" value="describe('$TEXT$', function () {&#10;    $END$&#10;});" description="Inserts describe() expression" toReformat="false" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

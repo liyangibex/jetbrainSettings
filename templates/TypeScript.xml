@@ -1,0 +1,14 @@
+<templateSet group="TypeScript">
+  <template name="import" value="import { $NAME$ } from '$END$';" description="Insert import" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="importcomponent" value="import {Component} from '$PATH$';" description="Insert import component" toReformat="false" toShortenFQNames="true">
+    <variable name="PATH" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

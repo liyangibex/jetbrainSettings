@@ -1,0 +1,13 @@
+<templateSet group="Markdown">
+  <template name=".task" value="- [$STATUS$] $END$" description="Task Item - [ ]" toReformat="false" toShortenFQNames="false">
+    <variable name="STATUS" expression="" defaultValue=" " alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name=".toc" value="[TOC]: # $END$" description="Table of Contents [TOC]: #" toReformat="false" toShortenFQNames="false">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

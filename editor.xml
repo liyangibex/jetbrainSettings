@@ -2,8 +2,11 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
     <option name="FONT_FAMILY" value="Lucida Console" />
+    <option name="LINE_SPACING" value="1.5" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
   </component>
 </application>
