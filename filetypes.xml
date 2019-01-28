@@ -1,11 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="jqmobile" type="JavaScript" />
-      <mapping pattern="jqmobile.js" type="PLAIN_TEXT" />
-      <mapping pattern="style.js" type="PLAIN_TEXT" />
-      <mapping pattern="list_swiper.scss" type="PLAIN_TEXT" />
-      <mapping pattern="HeadLogo" type="Vue.js" />
+      <mapping pattern="goodsType" type="JavaScript" />
+      <mapping ext="bck" type="JavaScript" />
+      <mapping pattern="eslint" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

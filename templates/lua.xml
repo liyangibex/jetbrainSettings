@@ -1,0 +1,7 @@
+<templateSet group="lua">
+  <template name="---" value="-- -----------------------------------------------------------------------&#10;-- $END$&#10;-- -----------------------------------------------------------------------" description="Lua Docs" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="LUA" value="true" />
+    </context>
+  </template>
+</templateSet>
