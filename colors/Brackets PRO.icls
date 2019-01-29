@@ -2,10 +2,15 @@
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-01-26T23:51:48</property>
+    <property name="description">brackets PRO</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-01-28T12:07:15</property>
+    <property name="modified">2019-01-30T07:51:28</property>
     <property name="originalScheme">Brackets</property>
+    <property name="vendorMail" />
+    <property name="vendorName">liyy</property>
+    <property name="vendorUrl">http://</property>
+    <property name="version">0.1</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="14" />
